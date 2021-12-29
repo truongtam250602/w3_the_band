@@ -166,7 +166,7 @@ body{
     position: relative;
     background-color: #ccc;
     padding-top: 50%;
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
     
 }
 #slider .text-content{
